@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" parallel="none">
+  <test name="iPhone 5(failed)" parallel="none">
+    <classes>
+      <class name="com.mAqua.Scripts.Sprints.Beforesuit">
+        <methods>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.mAqua.Scripts.Sprints.Beforesuit -->
+      <class name="com.mAqua.Scripts.Sprints.AfterSuit">
+        <methods>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.mAqua.Scripts.Sprints.AfterSuit -->
+    </classes>
+  </test> <!-- iPhone 5(failed) -->
+  <test name="iPhone 6(failed)" parallel="none">
+    <classes>
+      <class name="com.mAqua.Scripts.Sprints.Beforesuit">
+        <methods>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.mAqua.Scripts.Sprints.Beforesuit -->
+      <class name="com.mAqua.Scripts.Sprints.AfterSuit">
+        <methods>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.mAqua.Scripts.Sprints.AfterSuit -->
+    </classes>
+  </test> <!-- iPhone 6(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SiteInfo>
+  <Site
+    id="UatSite"
+    BaseUrl="https://#######.rpcsys.hmco.com"
+    FullRun="true"/>
+
+  <Site
+    id="QaSite"
+    BaseUrl="https://wjqa.rpcsys.hmco.com/"
+    FullRun="true"/>
+
+  <Site
+    id="DevSite"
+    BaseUrl="https://wj4nd.rpcsys.hmco.com/"
+    FullRun="true"/>
+
+  <Logins>
+    <Login id="Admin">
+      <UserName>riversiderealadmin</UserName>
+      <Password>admin!</Password>
+    </Login>
+    <Login id="AccountHolder">
+      <UserName>Archimedes</UserName>
+      <Password>test</Password>
+    </Login>
+    <Login id="AccountHolder1">
+      <UserName>autotest0061</UserName>
+      <Password>wjtest12</Password>
+    </Login>
+    <Login id="AccountHolder2">
+      <UserName></UserName>
+      <Password></Password>
+    </Login>
+    <Login id="AccountHolder3">
+      <UserName></UserName>
+      <Password></Password>
+    </Login>
+    <Login id="AccountHolder4">
+      <UserName></UserName>
+      <Password></Password>
+    </Login>
+    <Login id="Examiner1">
+      <UserName>autoexam0060</UserName>
+      <Password>wjtest12</Password>
+    </Login>
+    <Login id="SuperUser">
+      <UserName></UserName>
+      <Password></Password>
+    </Login>
+    <Login id="Staff">
+      <UserName></UserName>
+      <Password></Password>
+    </Login>    
+  </Logins>
+</SiteInfo>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SetupPar>
+  <Setup id="Device1">
+    <Device>John</Device>
+    <Devicetype>Nexus7_4.3</Devicetype>
+    <Version>4.2.2</Version>
+    <Env>iOS</Env>
+    <AppPath>Mar-1-2000</AppPath>
+    <AppPackage>com.hmh.wjiv</AppPackage>
+    <AppActivity>com.hmh.wjiv.view.activities.Wjiv</AppActivity>
+    <deviceReadyTimeout>600000</deviceReadyTimeout>
+    <appWaitActivity>600000</appWaitActivity>
+    <androidDeviceReadyTimeout>600000</androidDeviceReadyTimeout>
+    <avd>Nexus7_4.3</avd>
+    <avdLaunchTimeout>600000</avdLaunchTimeout>
+    <avdReadyTimeout>600000</avdReadyTimeout>
+  </Setup>
+  <Setup Id="Device2">
+    <FirstName>AutoSubjF</FirstName>
+    <LastName>AutoSubjL</LastName>
+    <MiddleName>AutoSubjM</MiddleName>
+    <SubjectId>AutoSbId</SubjectId>
+    <DOB>Mar-1-2000</DOB>
+    <Gender>F</Gender>
+  </Setup>
+</SetupPar>

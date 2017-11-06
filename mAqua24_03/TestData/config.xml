@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SetupPar>
+<Setup id="Device1">
+	<UserName>venkat</UserName>
+	<ProjectName>WJIV</ProjectName>
+	<TestType>Regression</TestType>
+	<Platfrom>Android</Platfrom>
+	<PaltformType>Emulator</PaltformType>
+	<SelectedDevice>Nexus7</SelectedDevice>
+	<ReportName>fsdfsdfsd</ReportName>
+</Setup>
+</SetupPar>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite1" parallel="none">
+      <test name="Test1">
+      <classes>
+           <class name="com.Demo.Scripts.Sprints.Beforesuit" /> 
+          <class name="com.Demo.Scripts.Sprints.Sprint3" />
+          <!-- 	<include name="ForgotPassword1" />
+				
+					<exclude name="testMakeOrder" />
+				 -->
+       <class name="com.Demo.Scripts.Sprints.Sprint2" />
+       <class name="com.Demo.Scripts.Sprints.AfterSuit"/>
+  </classes>
+  </test> <!-- Test -->
+  <test name="Test2">
+      <classes>
+           <class name="com.Demo.Scripts.Sprints.Beforesuit" /> 
+          <class name="com.Demo.Scripts.Sprints.Sprint3" />
+          <!-- 	<include name="ForgotPassword1" />
+				
+					<exclude name="testMakeOrder" />
+				 -->
+       <class name="com.Demo.Scripts.Sprints.Sprint2" />
+       <class name="com.Demo.Scripts.Sprints.AfterSuit"/>
+  </classes>
+  </test> <!-- Test -->
+  
+   <test name="Test3">
+      <classes>
+         <class name="com.Demo.Scripts.Sprints.Beforesuit" /> 
+          <class name="com.Demo.Scripts.Sprints.Sprint3" />
+          <!-- 	<include name="ForgotPassword1" />
+				
+					<exclude name="testMakeOrder" />
+				 -->
+       <class name="com.Demo.Scripts.Sprints.Sprint2" />
+       <class name="com.Demo.Scripts.Sprints.AfterSuit"/>
+  </classes>
+  </test> <!-- Test -->
+  
+  <test name="Test4">
+      <classes>
+           <class name="com.Demo.Scripts.Sprints.Beforesuit" /> 
+          <class name="com.Demo.Scripts.Sprints.Sprint3" />
+          <!-- 	<include name="ForgotPassword1" />
+				
+					<exclude name="testMakeOrder" />
+				 -->
+       <class name="com.Demo.Scripts.Sprints.Sprint2" />
+       <class name="com.Demo.Scripts.Sprints.AfterSuit"/>
+  </classes>
+  </test> <!-- Test -->
+  
+    <test name="Test5">
+      <classes>
+           <class name="com.Demo.Scripts.Sprints.Beforesuit" /> 
+          <class name="com.Demo.Scripts.Sprints.Sprint3" />
+          <!-- 	<include name="ForgotPassword1" />
+				
+					<exclude name="testMakeOrder" />
+				 -->
+       <class name="com.Demo.Scripts.Sprints.Sprint2" />
+       <class name="com.Demo.Scripts.Sprints.AfterSuit"/>
+  </classes>
+  </test> <!-- Test -->
+  
+   
+</suite> <!-- Suite -->

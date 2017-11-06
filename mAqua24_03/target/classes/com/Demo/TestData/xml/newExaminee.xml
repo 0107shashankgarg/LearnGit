@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NewSubject>
+  <Subject id="Subject1">
+    <FirstName>Sam</FirstName>
+    <LastName>Kay</LastName>
+    <MiddleName>L</MiddleName>
+    <SubjectId>eId</SubjectId>
+    <DOB>Mar-1-2000</DOB>
+    <Gender>F</Gender>
+  </Subject>
+  <Subject Id="Subject2">
+    <FirstName>AutoSubjF</FirstName>
+    <LastName>AutoSubjL</LastName>
+    <MiddleName>AutoSubjM</MiddleName>
+    <SubjectId>AutoSbId</SubjectId>
+    <DOB>Mar-1-2000</DOB>
+    <Gender>F</Gender>
+  </Subject>
+</NewSubject>
+
