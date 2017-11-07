@@ -10,7 +10,7 @@ public class Sprint3 {
 
 	@Test()
 	public void ForgotPassword() throws ClassNotFoundException {
-		 int a = 10;
+		 String a = "11";
 		 System.out.println(a);
 		System.out.println("device name : "
 				+ EnviornmentSetup.taskDetails.get("deviceName"));

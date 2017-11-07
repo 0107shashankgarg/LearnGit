@@ -21,7 +21,7 @@ public class Sprint2 {
 
 	@Test()
 	public void Login() throws ClassNotFoundException {
-		int a = 10;
+		int a = 11;
 		System.out.println(a);
 		System.out.println("device name : "
 				+ EnviornmentSetup.taskDetails.get("deviceName"));
